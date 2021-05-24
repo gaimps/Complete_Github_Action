@@ -12,9 +12,9 @@ jobs:
         run: echo "Hello WOrld"
       - name: multiline script
         run: |
-          node -V
-          python -V
-          npm -V
+          node -v
+          python -v
+          npm -v
 
 
 ...
