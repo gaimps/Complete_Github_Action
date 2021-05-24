@@ -13,7 +13,7 @@ jobs:
       - name: multiline script
         run: |
           node -v
-          python -v
+          python -V
           npm -v
 
 
