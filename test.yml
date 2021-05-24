@@ -1,0 +1,36 @@
+name: Gaimps
+age : 28
+address: "12339 diderot"
+key:
+  key1: value
+  key2: 33
+  key3:
+    key: value
+    key2: value
+
+jsonObject: {key1: value,key2: 33,key3:{key: value,key2: value}}    
+
+list:
+  - item1
+  - item2
+  - {key: value}
+
+jsonArray: [item1,item2]
+
+objectArray:
+  - key: value
+    key2: value
+  - key: value
+    key2: value
+
+LongTextNewline: >
+  djskdfkjvkjnfj   fknvkfnvkjvfdvnj
+  vndjkfndjknfjdknvfnvvfdvfjkdbfhf
+  vfjdkfdkfkbfkbkfdbfkdbkdfbkfdkfd    
+
+
+LongTextNewline2: |
+  fgdsn kls;dgfl;dsf f;ds;sdd;
+  fdlsknfkldsnfmmfd
+  fnjdsknnnkglf;ds;lfds;nfdsn
+  sgfksdnfdsnlfdsdsllsslsglfn
